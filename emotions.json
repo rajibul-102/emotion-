@@ -1,0 +1,261 @@
+[
+    {
+        "timestamp": "2024-05-26 14:23:19",
+        "text": "hell",
+        "emotion": "Sad",
+        "scores": {
+            "neg": 1.0,
+            "neu": 0.0,
+            "pos": 0.0,
+            "compound": -0.6808
+        },
+        "face_emotions": [
+            "Happy"
+        ]
+    },
+    {
+        "timestamp": "2024-05-26 14:23:45",
+        "text": "shit!!!",
+        "emotion": "Sad",
+        "scores": {
+            "neg": 1.0,
+            "neu": 0.0,
+            "pos": 0.0,
+            "compound": -0.6679
+        },
+        "face_emotions": [
+            "Sad"
+        ]
+    },
+    {
+        "timestamp": "2024-05-26 14:23:52",
+        "text": "helo",
+        "emotion": "Neutral",
+        "scores": {
+            "neg": 0.0,
+            "neu": 1.0,
+            "pos": 0.0,
+            "compound": 0.0
+        },
+        "face_emotions": [
+            "Happy"
+        ]
+    },
+    {
+        "timestamp": "2024-05-26 14:23:58",
+        "text": "kkl",
+        "emotion": "Neutral",
+        "scores": {
+            "neg": 0.0,
+            "neu": 1.0,
+            "pos": 0.0,
+            "compound": 0.0
+        },
+        "face_emotions": [
+            "Happy"
+        ]
+    },
+    {
+        "timestamp": "2024-05-26 14:24:01",
+        "text": "jd",
+        "emotion": "Neutral",
+        "scores": {
+            "neg": 0.0,
+            "neu": 1.0,
+            "pos": 0.0,
+            "compound": 0.0
+        },
+        "face_emotions": [
+            "Fear"
+        ]
+    },
+    {
+        "timestamp": "2024-05-26 14:24:08",
+        "text": "jd",
+        "emotion": "Neutral",
+        "scores": {
+            "neg": 0.0,
+            "neu": 1.0,
+            "pos": 0.0,
+            "compound": 0.0
+        },
+        "face_emotions": [
+            "Sad",
+            "Happy"
+        ]
+    },
+    {
+        "timestamp": "2024-05-26 14:24:14",
+        "text": "hhdh",
+        "emotion": "Neutral",
+        "scores": {
+            "neg": 0.0,
+            "neu": 1.0,
+            "pos": 0.0,
+            "compound": 0.0
+        },
+        "face_emotions": [
+            "Happy",
+            "Sad"
+        ]
+    },
+    {
+        "timestamp": "2024-05-26 14:24:18",
+        "text": "ue",
+        "emotion": "Neutral",
+        "scores": {
+            "neg": 0.0,
+            "neu": 1.0,
+            "pos": 0.0,
+            "compound": 0.0
+        },
+        "face_emotions": [
+            "Happy"
+        ]
+    },
+    {
+        "timestamp": "2024-05-26 14:24:28",
+        "text": "ohh",
+        "emotion": "Neutral",
+        "scores": {
+            "neg": 0.0,
+            "neu": 1.0,
+            "pos": 0.0,
+            "compound": 0.0
+        },
+        "face_emotions": [
+            "Sad"
+        ]
+    },
+    {
+        "timestamp": "2024-05-26 14:24:33",
+        "text": "jfjf",
+        "emotion": "Neutral",
+        "scores": {
+            "neg": 0.0,
+            "neu": 1.0,
+            "pos": 0.0,
+            "compound": 0.0
+        },
+        "face_emotions": [
+            "Null 404 No Face Detected"
+        ]
+    },
+    {
+        "timestamp": "2024-05-26 14:24:38",
+        "text": "jffj",
+        "emotion": "Neutral",
+        "scores": {
+            "neg": 0.0,
+            "neu": 1.0,
+            "pos": 0.0,
+            "compound": 0.0
+        },
+        "face_emotions": [
+            "Surprise"
+        ]
+    },
+    {
+        "timestamp": "2024-05-26 14:24:42",
+        "text": "fj",
+        "emotion": "Neutral",
+        "scores": {
+            "neg": 0.0,
+            "neu": 1.0,
+            "pos": 0.0,
+            "compound": 0.0
+        },
+        "face_emotions": [
+            "Sad"
+        ]
+    },
+    {
+        "timestamp": "2024-05-26 14:24:45",
+        "text": "jf",
+        "emotion": "Neutral",
+        "scores": {
+            "neg": 0.0,
+            "neu": 1.0,
+            "pos": 0.0,
+            "compound": 0.0
+        },
+        "face_emotions": [
+            "Sad"
+        ]
+    },
+    {
+        "timestamp": "2024-05-26 14:24:47",
+        "text": "j",
+        "emotion": "Neutral",
+        "scores": {
+            "neg": 0.0,
+            "neu": 0.0,
+            "pos": 0.0,
+            "compound": 0.0
+        },
+        "face_emotions": [
+            "Happy",
+            "Sad"
+        ]
+    },
+    {
+        "timestamp": "2024-05-26 14:24:50",
+        "text": "j",
+        "emotion": "Neutral",
+        "scores": {
+            "neg": 0.0,
+            "neu": 0.0,
+            "pos": 0.0,
+            "compound": 0.0
+        },
+        "face_emotions": [
+            "Happy",
+            "Sad"
+        ]
+    },
+    {
+        "timestamp": "2024-05-26 14:24:51",
+        "text": "",
+        "emotion": "Neutral",
+        "scores": {
+            "neg": 0.0,
+            "neu": 0.0,
+            "pos": 0.0,
+            "compound": 0.0
+        },
+        "face_emotions": [
+            "Happy",
+            "Sad"
+        ]
+    },
+    {
+        "timestamp": "2024-05-26 14:24:52",
+        "text": "f",
+        "emotion": "Neutral",
+        "scores": {
+            "neg": 0.0,
+            "neu": 0.0,
+            "pos": 0.0,
+            "compound": 0.0
+        },
+        "face_emotions": [
+            "Happy",
+            "Sad"
+        ]
+    },
+    {
+        "timestamp": "2024-05-26 14:24:53",
+        "text": "",
+        "emotion": "Neutral",
+        "scores": {
+            "neg": 0.0,
+            "neu": 0.0,
+            "pos": 0.0,
+            "compound": 0.0
+        },
+        "face_emotions": [
+            "Sad",
+            "Sad"
+        ]
+    }
+]
